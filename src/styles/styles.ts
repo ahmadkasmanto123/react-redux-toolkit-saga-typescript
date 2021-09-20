@@ -10,7 +10,7 @@ export const Button = styled.button`
   font-weight: 600;
 `
 export const TextCount = styled.h1`
-    font-size: 10em;
+    font-size: 5em;
     padding: 0px;
     margin: 0px;
 `
